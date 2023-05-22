@@ -20,7 +20,7 @@ namespace ReportPDF.Reports
         private readonly string _fontpath;
         public DemoReport()
         {
-            _filepath = "D:/repo/20230329/report.pdf";
+            _filepath = "D:/repo/20230329/DemoReport.pdf";
             _fontpath = "C:/WINDOWS/FONTS/KAIU.TTF";
         }
         public void GeneratePDF()
